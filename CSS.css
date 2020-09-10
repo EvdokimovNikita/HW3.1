@@ -1,0 +1,32 @@
+main { max-width: 550px}
+header{color: red;
+    margin-left: 50px}   /*заголовок красным*/
+h3 {color: red} /*цвет нумер.списка*/
+/*li:nth-child(1){front-weight: bolder;*/
+/*!*    font-size: 20pt}*! - не получилось....*/
+li:nth-child(2){
+    font-style: italic;}
+.PHP\&JavaScript{
+    color: green;
+} /*зеленым заголовок PHP&JavaScript*/
+.colorRed{
+    color: red;
+    font-size: 20pt;
+}
+.ScriptType{
+    color: green;
+}
+.colorBlue{
+    color: blue;
+    font-style: italic;
+}
+.UnnList{
+    color: deeppink;
+}
+ul{
+    font-style: italic;
+}
+.colorRedInc{
+    color: red;
+    font-size: 20pt;
+}
